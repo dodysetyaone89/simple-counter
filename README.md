@@ -9,7 +9,7 @@ https://dodysetyaone89.github.io/simple-counter/
 
 ## 📸 Preview
 
-![Preview](asset/preview.png)
+![Preview](assets/preview.png)
 
 ---
 
